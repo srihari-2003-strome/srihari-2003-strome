@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm SriHari
 
-<!--
-**srihari-2003-strome/srihari-2003-strome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an Aspiring Data Analyst with a strong foundation in Python, SQL, Excel, Tableau, and **Power BI.  
+I specialize in converting complex data into clear, actionable insights to drive smart business decisions.
 
-Here are some ideas to get you started:
+📍 Based in India | 🌏 Open to remote & international opportunities.  
+💡 Currently focused on real-world case studies, dashboards, and data-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+---
+
+## 📌 Projects
+- 📊 SQL Case Studies: E-commerce, Banking, HR Analytics & more  
+- 🧪 Python Analysis Projects: Data cleaning, transformation, EDA  
+- 📈 Interactive Dashboards: Streamlit + Real-time weather simulations  
+- 🧠 Machine Learning: Regression models, chatbot with RAG pipeline  
+
+📂 Check out my pinned repositories below for detailed walkthroughs!
+
+---
+
+## 📫 Let's Connect
+- 🔗 [LinkedIn](www.linkedin.com/in/srihari-r-34b1a7354)
+- 📧 sriharistrome@gmail.com
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srihari-2003-strome&show_icons=true&theme=default)
